@@ -13,9 +13,9 @@
 
     <q-footer elevated>
       <q-tabs class="text-light bg-teal">
-        <q-tab name="/map" label="Mapa" icon="explore" />
-        <q-tab name="/route" label="Rotas" icon="directions" />
-        <q-tab name="/auth" label="Login" icon="login" />
+        <q-route-tab to="/map" label="Mapa" icon="explore" />
+        <q-route-tab to="/route" label="Rotas" icon="directions" />
+        <q-route-tab to="/auth" label="Login" icon="login" />
       </q-tabs>
     </q-footer>
   </q-layout>

@@ -1,7 +1,7 @@
 <template>
   <q-page id="loginPage">
     <q-toolbar class="text-white bg-teal-8">
-      <q-toolbar-title>Registrar</q-toolbar-title>
+      <q-toolbar-title>Login</q-toolbar-title>
     </q-toolbar>
 
     <q-scroll-area class="q-pa-md form-style">
